@@ -1,9 +1,11 @@
-######################################################################################
-# These IP addresses have been logged by an ASUS router for unsolicited connections  #
-# Using Notepad ++ These IP addresses appear in Lexicographically Ascending order    #
-# Edit > Line operations > Sort Lines Lexicographically Ascending                    #
-# Lat updated 6-13-2025                                                              #
-######################################################################################
+##########################################################################################
+# These IP addresses have been logged by an ASUS router for unsolicited connections      #
+# Using Notepad ++ These IP addresses appear in Lexicographically Ascending order        #
+# Edit > Line operations > Sort Lines Lexicographically Ascending                        #
+# As you can see this list could be cleaned up merging IP ranges in CIDR format for      #
+# example. However Synology NAS does not allow CIDR ranges to be used in its blocklists. #
+# Last updated 6-13-2025                                                                  #
+##########################################################################################
 1.10.214.45
 1.161.143.83
 1.163.121.82
