@@ -4,7 +4,7 @@
 # Edit > Line operations > Sort Lines Lexicographically Ascending.                       #
 # As you can see this list could be cleaned up merging IP ranges in CIDR format for      #
 # example. However Synology NAS does not allow CIDR ranges to be used in its blocklists. #
-# Last updated 6-13-2025                                                                 #
+# Last updated 6-14-2025                                                                 #
 ##########################################################################################
 # Edit > Line operations > Sort Lines Lexicographically Ascending
 ######
