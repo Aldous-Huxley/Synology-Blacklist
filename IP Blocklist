@@ -1,13 +1,10 @@
 ##########################################################################################
 # These IP addresses have been logged by an ASUS router for unsolicited connections      #
-# Using Notepad ++ These IP addresses appear in Lexicographically Ascending order.       #
-# Edit > Line operations > Sort Lines Lexicographically Ascending.                       #
+#                                                                                        #
 # As you can see this list could be cleaned up merging IP ranges in CIDR format for      #
 # example. However Synology NAS does not allow CIDR ranges to be used in its blocklists. #
 # Last updated 6-14-2025                                                                 #
 ##########################################################################################
-# Edit > Line operations > Sort Lines Lexicographically Ascending
-######
 ######
 ## REMOVED ANY IP ADDRESSES BELONGING TO CLOUDFLARE ##
 # 173.245.48.0/20
